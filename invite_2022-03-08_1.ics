@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220308T090217Z
+UID:9489b1f2-67d3-4850-8ac7-96ca7dc2fbc8
+DTSTART:20220308T093000Z
+DTEND:20220308T100000Z
+DESCRIPTION:You are invited for discussion regarding your job application -
+  Dot Net MVC\, Ms Teams url - https://winjit-people.freshteam.com/assessme
+ nts/bYrpAX9u0NGZ
+ORGANIZER;CN=Purva Rajurkar:mailto:purvar@winjit.com
+SUMMARY:Dot Net MVC Interview - Ms Teams Interview
+END:VEVENT
+END:VCALENDAR
